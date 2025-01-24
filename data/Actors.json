@@ -16,6 +16,6 @@ null,
 {"id":14,"battlerName":"Actor_Billy","characterIndex":0,"characterName":"Actor_Billy","classId":16,"equips":[49,49,63,13,76],"faceIndex":2,"faceName":"Actor6","traits":[],"initialLevel":1,"maxLevel":99,"name":"Billy","nickname":"Billy","note":"","profile":"Bill"},
 {"id":15,"battlerName":"Actor_John","characterIndex":0,"characterName":"Actor_John","classId":15,"equips":[50,50,63,13,76],"faceIndex":0,"faceName":"Actor6","traits":[],"initialLevel":1,"maxLevel":99,"name":"John","nickname":"John","note":"","profile":"John Waccland"},
 {"id":16,"battlerName":"Actor_Goddess","characterIndex":0,"characterName":"Actor_Goddess","classId":11,"equips":[5,0,0,0,0],"faceIndex":6,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Goddess","nickname":"Goddess","note":"","profile":"Goddess"},
-{"id":17,"battlerName":"","characterIndex":0,"characterName":"","classId":18,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jawhn Deer","nickname":"Deer","note":"","profile":""},
+{"id":17,"battlerName":"","characterIndex":0,"characterName":"yume","classId":18,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jawhn Deer","nickname":"Deer","note":"","profile":""},
 {"id":18,"battlerName":"","characterIndex":0,"characterName":"","classId":19,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jawhn Goat","nickname":"Goat","note":"","profile":""}
 ]
