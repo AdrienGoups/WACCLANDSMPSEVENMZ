@@ -5,9 +5,9 @@ var $plugins =
 {"name":"ChangeEquipOnBattleMZ","status":true,"description":"[Ver1.1.0]Add equipment change command to actor commands","parameters":{"commandName":"Equip"}},
 {"name":"ChangeSelectItemWindowMZ","status":true,"description":"Change the various settings of item selecting window.","parameters":{"Switch ID":"1","Max Columns":"1","Visible Rows":"8","X position":"-1","Y position":"-1","Width":"-1"}},
 {"name":"HPConsumeSkill","status":true,"description":"make the skill that consumes HP, not only MP and/or TP","parameters":{"Consume HP Color":"17"}},
-{"name":"MenuSubMembersMZ","status":true,"description":"Display sub members at menu window and map as followers","parameters":{"subMemberIdVal1":"1","subMemberIdVal2":"2","subMemberIdVal3":"3","subMemberIdVal4":"4","subMemberText":"Sub Members","displayIfNone":"false","subMemberNoneText":"None","DisplayOnMap":"true","additionalFollower":"4"}},
+{"name":"MenuSubMembersMZ","status":false,"description":"Display sub members at menu window and map as followers","parameters":{"subMemberIdVal1":"1","subMemberIdVal2":"2","subMemberIdVal3":"3","subMemberIdVal4":"4","subMemberText":"Sub Members","displayIfNone":"false","subMemberNoneText":"None","DisplayOnMap":"true","additionalFollower":"4"}},
 {"name":"SVActorPositionMZ","status":true,"description":"Change actors' position on screen at sideview battle.","parameters":{"actor1 Xpos":"700","actor1 Ypos":"320","actor2 Xpos":"700 + 32","actor2 Ypos":"320 + 48","actor3 Xpos":"700 + 32 * 2","actor3 Ypos":"320 + 48 * 2","actor4 Xpos":"700 + 32 * 3","actor4 Ypos":"320 + 48 * 3"}},
 {"name":"Yami_8DirEx","status":true,"description":"Player can 8-dir move, also touch input movement.","parameters":{"dir4 Switch ID":"100"}},
 {"name":"WeatherOnBattle","status":true,"description":"display weather not only map but also battle","parameters":{}},
-{"name":"SubMembersAttendBattle","status":true,"description":"[Ver1.0.1]Make Sub Members(=NPC) Attend Battle and does auto actions.","parameters":{"subMemberIdVal1":"1","subMemberIdVal2":"2","subMemberIdVal3":"3","subMemberIdVal4":"4"}}
+{"name":"SubMembersAttendBattle","status":false,"description":"[Ver1.0.1]Make Sub Members(=NPC) Attend Battle and does auto actions.","parameters":{"subMemberIdVal1":"1","subMemberIdVal2":"2","subMemberIdVal3":"3","subMemberIdVal4":"4"}}
 ];
