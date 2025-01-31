@@ -9,5 +9,6 @@ var $plugins =
 {"name":"SVActorPositionMZ","status":true,"description":"Change actors' position on screen at sideview battle.","parameters":{"actor1 Xpos":"700","actor1 Ypos":"320","actor2 Xpos":"700 + 32","actor2 Ypos":"320 + 48","actor3 Xpos":"700 + 32 * 2","actor3 Ypos":"320 + 48 * 2","actor4 Xpos":"700 + 32 * 3","actor4 Ypos":"320 + 48 * 3"}},
 {"name":"Yami_8DirEx","status":true,"description":"Player can 8-dir move, also touch input movement.","parameters":{"dir4 Switch ID":"100"}},
 {"name":"WeatherOnBattle","status":true,"description":"display weather not only map but also battle","parameters":{}},
-{"name":"SubMembersAttendBattle","status":false,"description":"[Ver1.0.1]Make Sub Members(=NPC) Attend Battle and does auto actions.","parameters":{"subMemberIdVal1":"1","subMemberIdVal2":"2","subMemberIdVal3":"3","subMemberIdVal4":"4"}}
+{"name":"SubMembersAttendBattle","status":false,"description":"[Ver1.0.1]Make Sub Members(=NPC) Attend Battle and does auto actions.","parameters":{"subMemberIdVal1":"1","subMemberIdVal2":"2","subMemberIdVal3":"3","subMemberIdVal4":"4"}},
+{"name":"ShiftEnemies","status":true,"description":"Adjust the enemy placement according to your game resolution automatically.  Tweaked by Restart for MV","parameters":{}}
 ];
