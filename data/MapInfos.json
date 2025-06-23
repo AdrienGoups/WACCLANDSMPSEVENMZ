@@ -29,5 +29,5 @@ null,
 {"id":27,"expanded":true,"name":"SwampNorth","order":26,"parentId":0,"scrollX":986.6666666666666,"scrollY":3498.6666666666665},
 {"id":28,"expanded":false,"name":"SwampSouth","order":27,"parentId":27,"scrollX":832,"scrollY":784},
 {"id":29,"expanded":true,"name":"MountainsEntrance","order":28,"parentId":0,"scrollX":816,"scrollY":624},
-{"id":30,"expanded":false,"name":"MountainsMiddle","order":29,"parentId":29,"scrollX":1568,"scrollY":1760}
+{"id":30,"expanded":false,"name":"MountainsMiddle","order":29,"parentId":29,"scrollX":1926.5454545454547,"scrollY":1326.5454545454545}
 ]
