@@ -33,7 +33,9 @@ null,
 {"id":31,"expanded":false,"name":"MountainsSummit","order":30,"parentId":29,"scrollX":816,"scrollY":640},
 {"id":32,"expanded":true,"name":"CoastPath1","order":32,"parentId":0,"scrollX":1312.5,"scrollY":1662},
 {"id":33,"expanded":false,"name":"CoastPath2","order":33,"parentId":32,"scrollX":1324.5,"scrollY":1662},
-{"id":34,"expanded":true,"name":"PortTownN","order":34,"parentId":0,"scrollX":1312.5,"scrollY":738},
+{"id":34,"expanded":true,"name":"PortTownN","order":34,"parentId":0,"scrollX":816,"scrollY":624},
 {"id":35,"expanded":false,"name":"Bridge","order":36,"parentId":0,"scrollX":1500,"scrollY":829.5},
-{"id":36,"expanded":false,"name":"PortTownS","order":35,"parentId":34,"scrollX":1312.5,"scrollY":738}
+{"id":36,"expanded":false,"name":"PortTownS","order":35,"parentId":34,"scrollX":832,"scrollY":624},
+{"id":37,"expanded":true,"name":"Beach","order":37,"parentId":0,"scrollX":832,"scrollY":726},
+{"id":38,"expanded":false,"name":"IslandForest","order":38,"parentId":37,"scrollX":1750,"scrollY":984}
 ]
