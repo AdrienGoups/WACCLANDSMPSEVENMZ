@@ -38,7 +38,7 @@ null,
 {"id":36,"expanded":false,"name":"PortTownS","order":35,"parentId":34,"scrollX":832,"scrollY":624},
 {"id":37,"expanded":true,"name":"Beach","order":37,"parentId":0,"scrollX":832,"scrollY":816},
 {"id":38,"expanded":false,"name":"IslandForest","order":38,"parentId":37,"scrollX":1312.5,"scrollY":1182},
-{"id":39,"expanded":false,"name":"Abyss","order":41,"parentId":40,"scrollX":1312.5,"scrollY":738},
+{"id":39,"expanded":false,"name":"Abyss","order":41,"parentId":40,"scrollX":1312.5,"scrollY":948},
 {"id":40,"expanded":true,"name":"CastleSevenEntrance","order":39,"parentId":0,"scrollX":1312.5,"scrollY":738},
 {"id":41,"expanded":false,"name":"CastleSevenMainHall","order":40,"parentId":40,"scrollX":1312.5,"scrollY":738}
 ]
