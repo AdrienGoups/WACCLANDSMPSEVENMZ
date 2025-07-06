@@ -27,6 +27,8 @@ Theo.ResBasedPosition = function() {
     };
 
     _.fixEnemyPlacement = function(){
+        _.DefMaxHeight = 425
+    _.DefMaxWidth = 960
         xScale = innerWidth/ _.DefMaxWidth
         yScale = innerHeight/ _.DefMaxHeight
         this._enemies.forEach(enemy => {
