@@ -22,5 +22,5 @@ var $plugins =
 {"name":"ForegroundParallax","status":true,"description":"Shows foreground parallax that can be used for fogs.","parameters":{}},
 {"name":"ODUE_BattleBack","status":true,"description":"(ver1.2) Battle Background effects plugin","parameters":{}},
 {"name":"GALV_AnimatedBattleback","status":false,"description":"(v.1.0) Allows you to use a battleback image with multiple frames for animated backgrounds in battle","parameters":{}},
-{"name":"PSYCHRONIC_RaveLighting","status":true,"description":"Adds customizable lighting effects to events with various patterns and controls, featuring enhanced bloom effects for a more heavenly glow.","parameters":{"lightBuffer":"350","darknessGamma":"0.1","Custom Light Types":"[]"}}
+{"name":"PSYCHRONIC_RaveLighting","status":false,"description":"Adds customizable lighting effects to events with various patterns and controls, featuring enhanced bloom effects for a more heavenly glow.","parameters":{"lightBuffer":"350","darknessGamma":"0.1","Custom Light Types":"[]"}}
 ];
