@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"TESTMAP","order":2,"parentId":0,"scrollX":1749,"scrollY":803},
-{"id":2,"expanded":true,"name":"Village1","order":3,"parentId":0,"scrollX":1514,"scrollY":959.9999999999999},
+{"id":2,"expanded":true,"name":"Village1","order":3,"parentId":0,"scrollX":1518.6666666666667,"scrollY":959.9999999999999},
 {"id":3,"expanded":true,"name":"JawhnHouse","order":4,"parentId":2,"scrollX":1131,"scrollY":637},
 {"id":4,"expanded":false,"name":"JawhnRoom","order":5,"parentId":3,"scrollX":875,"scrollY":492},
 {"id":5,"expanded":false,"name":"JawhnCellar","order":6,"parentId":3,"scrollX":2333.3333333333335,"scrollY":1312},
