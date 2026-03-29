@@ -22,5 +22,6 @@ var $plugins =
 {"name":"ForegroundParallax","status":true,"description":"Shows foreground parallax that can be used for fogs.","parameters":{}},
 {"name":"ODUE_BattleBack","status":true,"description":"(ver1.2) Battle Background effects plugin","parameters":{}},
 {"name":"GALV_AnimatedBattleback","status":false,"description":"(v.1.0) Allows you to use a battleback image with multiple frames for animated backgrounds in battle","parameters":{}},
-{"name":"PSYCHRONIC_RaveLighting","status":false,"description":"Adds customizable lighting effects to events with various patterns and controls, featuring enhanced bloom effects for a more heavenly glow.","parameters":{"lightBuffer":"350","darknessGamma":"0.1","Custom Light Types":"[]"}}
+{"name":"PSYCHRONIC_RaveLighting","status":false,"description":"Adds customizable lighting effects to events with various patterns and controls, featuring enhanced bloom effects for a more heavenly glow.","parameters":{"lightBuffer":"350","darknessGamma":"0.1","Custom Light Types":"[]"}},
+{"name":"Ramza_PreTitleSplash_MZ","status":true,"description":"v1.03 Enables a configurable splash screen which shows images, or plays videos in sequence prior to the title screen.","parameters":{"SkipMode":"Current","Screens":"[\"{\\\"Type\\\":\\\"Video\\\",\\\"File\\\":\\\"/movies/op.webm\\\",\\\"CustomHold\\\":\\\"0\\\"}\"]","WaitFrames":"10","FadeInFrames":"90","FadeOutFrames":"90","HoldFrames":"360"}}
 ];
